@@ -1,0 +1,5 @@
+{
+  "name": "sinema",
+  "description": "A minimalist movie discovery and tracking platform powered by AI recommendations. Track what you watch, rate titles, and get personalized suggestions.",
+  "requestFramePermissions": []
+}
